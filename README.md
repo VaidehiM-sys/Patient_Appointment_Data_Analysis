@@ -1,4 +1,4 @@
-# Patient-Appointment-Data-Analysis-in-Python
+# Patient Appointment Data Analysis
 
 Data Analysis of missed appointments by patients
 
