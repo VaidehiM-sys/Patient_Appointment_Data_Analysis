@@ -19,9 +19,13 @@ The project analyzes data in following tasks:
 3. Gender Based No-Show appointment analysis
 4. Show and No-Show appointment distribution over a week
 5. Medical Condition based on Pattern 
+
     5.1 Analysis of patient data with different medical conditions based on appointment day of week
+
     5.2 Analysis of patient data with different medical conditions showing different Show-Up rate over day of week
+    
     5.3 Show up rate based on gender
+    
     5.4 Show up rate based on medical conditions and age
 6. Correlation between medical conditions
 7. Analysis of how sending SMS affects show or No-Show ratio
